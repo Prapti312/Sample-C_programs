@@ -6,6 +6,7 @@ int main()
 	int squared;
 	squared=square(&x);
 	printf("square of x is : %d",squared);
+	printf("made some changes today");
 }
 void* square(void* num)
 {
